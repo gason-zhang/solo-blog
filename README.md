@@ -2,7 +2,7 @@
 臻森 的个人博客
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
+<h4 align="center">路漫漫其修远兮，吾将上下而求索</h4>
 <p align="center"><a title="臻森 的个人博客" target="_blank" href="https://github.com/gason-zhang/solo-blog"><img src="https://img.shields.io/github/last-commit/gason-zhang/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/gason-zhang/solo-blog"><img src="https://img.shields.io/github/repo-size/gason-zhang/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Centos 7.6 系统 nginx 安装](http://blog.fuyuning.com/articles/2019/10/15/1571147305979.html)
 * [世界，你好！](http://blog.fuyuning.com/hello-solo)
 
 
