@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://blog.fuyuning.com/my-github-repos)
 * [Centos 7.6 系统 nginx 安装](http://blog.fuyuning.com/articles/2019/10/15/1571147305979.html)
 * [世界，你好！](http://blog.fuyuning.com/hello-solo)
 
